@@ -1,0 +1,21 @@
+div{
+   
+    color:#ff00ff;
+    font-family: 'courier new';
+
+}
+*{
+    background-color:black;
+}
+#one{
+    color:aqua;
+}
+#two{
+    color:blue;
+}
+#three{
+    color:rgb(204, 67, 126);
+}
+.a{
+    color:brown;
+}
