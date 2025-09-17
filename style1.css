@@ -1,0 +1,44 @@
+p{
+   
+    color:#ff00ff;
+    font-family: 'courier new';
+    background-color: rgb(20, 24, 141);
+
+}
+*{
+    background-color:black;
+}
+.heading{
+    color:crimson;
+}
+h1,h2,h3{
+    color:cadetblue;
+}
+button{
+    color:white;
+}
+#one{
+    background-color:#f67004;
+}
+#two{
+    background-color:#383BE5;
+}
+#three{
+    background-color:#2FEE6C;
+}
+#main-heading{
+    color:#f67004;
+}
+.featured{
+    color:#2FEE6C;
+}
+.message{
+    color:blue;
+}
+#alert{
+    color:red;
+}
+a[target]{
+    color:aliceblue;
+    background-color: blue; border: width 2px; border-style: solid;
+}
